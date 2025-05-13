@@ -1,4 +1,4 @@
-# 📚 Sistema de Gerenciamento de Biblioteca
+## 📚 Sistema de Gerenciamento de Biblioteca
 
 > 🔁 *This README is available in both **Portuguese** and **English**. Scroll down for the 🇺🇸 English version.*
 
@@ -72,14 +72,15 @@ Feito por @ithalo-teodosio
 
 ---
 
-🇺🇸 Library Management System
-🇧🇷 This README is also available in Portuguese above.
+## 🇺🇸 Library Management System
 
-📌 About the Project
+> 🇧🇷 **This README is also available in Portuguese above.**
+
+## 📌 About the Project
 A simple Java project that simulates a library management system in the terminal.
 It uses Object-Oriented Programming (OOP) to register and manage books and magazines.
 
-🚀 Features
+## 🚀 Features
 📖 Add book with title, author, and genre
 
 📰 Add magazine with title, author, and issue number
@@ -90,8 +91,7 @@ It uses Object-Oriented Programming (OOP) to register and manage books and magaz
 
 📋 List all registered materials
 
-🧱 Project Structure
-vbnet
+## 🧱 Project Structure
 
 src/
 ├── main/             → Main class with interactive menu
@@ -99,7 +99,7 @@ src/
 ├── biblioteca/       → Biblioteca class with logic
 └── enums/            → Enum for available genres
 
-💻 How to Run
+## 💻 How to Run
 
 1. Clone the repository:
 
@@ -115,7 +115,7 @@ javac src/**/*.java
 java src/main/Main
 ```
 
-💡 Future improvements
+## 💡 Future improvements
 - 💾 Data persistence with files or database
 
 - 🖼️ Graphical interface (Swing or JavaFX)
