@@ -4,14 +4,14 @@
 
 ---
 
-## 📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 Projeto simples em Java que simula o gerenciamento de uma biblioteca no terminal.  
 Utiliza os princípios da **Programação Orientada a Objetos (POO)** para cadastro e gerenciamento de **livros** e **revistas**.
 
 ---
 
-## 🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 - 📖 Adicionar livro com título, autor e gênero
 - 📰 Adicionar revista com título, autor e número da edição
@@ -21,7 +21,7 @@ Utiliza os princípios da **Programação Orientada a Objetos (POO)** para cadas
 
 ---
 
-## 🧱 Estrutura do Projeto
+# 🧱 Estrutura do Projeto
 
 src/
 ├── main/ → Classe principal com menu interativo
@@ -32,7 +32,7 @@ src/
 
 ---
 
-## 💻 Como Executar
+# 💻 Como Executar
 
 1. Clone o repositório:
 
@@ -49,7 +49,7 @@ javac src/**/*.java
 java src/main/Main
 ```
 
-💡 Posíveis melhorias
+# 💡 Posíveis melhorias
 - 💾 Persistência com arquivos ou banco de dados
 
 - 🖼️ Interface gráfica (Swing ou JavaFX)
@@ -58,7 +58,7 @@ java src/main/Main
 
 - 📊 Ordenação de materiais
 
-🧠 Conceitos aplicados
+# 🧠 Conceitos aplicados
 - Java 11+
 
 - POO (herança, polimorfismo)
@@ -67,7 +67,7 @@ java src/main/Main
 
 - Manipulação de entrada via Scanner
 
-✍️ Autor
+# ✍️ Autor
 Feito por @ithalo-teodosio
 
 ---
@@ -76,22 +76,22 @@ Feito por @ithalo-teodosio
 
 > 🇧🇷 **This README is also available in Portuguese above.**
 
-## 📌 About the Project
+# 📌 About the Project
 A simple Java project that simulates a library management system in the terminal.
 It uses Object-Oriented Programming (OOP) to register and manage books and magazines.
 
-## 🚀 Features
-📖 Add book with title, author, and genre
+# 🚀 Features
+- 📖 Add book with title, author, and genre
 
-📰 Add magazine with title, author, and issue number
+- 📰 Add magazine with title, author, and issue number
 
-🔍 Search material by title
+- 🔍 Search material by title
 
-❌ Delete material by title
+- ❌ Delete material by title
 
-📋 List all registered materials
+- 📋 List all registered materials
 
-## 🧱 Project Structure
+# 🧱 Project Structure
 
 src/
 ├── main/             → Main class with interactive menu
@@ -99,7 +99,7 @@ src/
 ├── biblioteca/       → Biblioteca class with logic
 └── enums/            → Enum for available genres
 
-## 💻 How to Run
+# 💻 How to Run
 
 1. Clone the repository:
 
@@ -115,7 +115,7 @@ javac src/**/*.java
 java src/main/Main
 ```
 
-## 💡 Future improvements
+# 💡 Future improvements
 - 💾 Data persistence with files or database
 
 - 🖼️ Graphical interface (Swing or JavaFX)
@@ -124,7 +124,7 @@ java src/main/Main
 
 - 📊 Sort materials
 
-🧠 Concepts used
+# 🧠 Concepts used
 - Java 11+
 
 - OOP (inheritance, polymorphism)
@@ -133,5 +133,5 @@ java src/main/Main
 
 - Scanner for terminal input
 
-✍️ Author
+# ✍️ Author
 Built by @ithalo-teodosio
